@@ -1,2 +1,2 @@
 # Git
-This is a project to learn git
+This is a project to learn git :)
